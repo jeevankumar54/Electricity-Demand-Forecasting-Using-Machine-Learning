@@ -27,11 +27,3 @@ jupyter notebook ElectricityDemandForecasting.ipynb
 ## Results
 * Model performance is evaluated using standard error metrics.
 * Visualizations help in understanding demand trends.
-
-## Improvements
-To enhance this repository:
-* Add a requirements.txt file with all dependencies.
-* Include detailed documentation for each step.
-* Provide sample datasets for reproducibility.
-* Implement additional models for comparison.
-* Add unit tests to verify preprocessing and model performance.
